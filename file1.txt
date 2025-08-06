@@ -1,2 +1,6 @@
 This is the file1 txt
+<<<<<<< HEAD
 Main version
+=======
+Feature-x 
+>>>>>>> feature-x
